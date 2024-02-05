@@ -2,7 +2,7 @@
 inf.txt
 dev-help.txt
 *.env
-/venv-heavenstrust/
+venv-heavenstrust/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
