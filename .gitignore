@@ -6,6 +6,7 @@ venv-heavenstrust/*
 venv-*/
 venv-heavenstrust/
 /venv-heavenstrust/
+venv-heavenstrust
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
