@@ -1,4 +1,5 @@
 # Custom
+db.sqlite3
 inf.txt
 dev-help.txt
 *.env

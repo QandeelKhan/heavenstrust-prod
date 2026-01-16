@@ -1,6 +1,6 @@
 import os
 from decouple import config
-from heavenstrust_main.settings import BASE_DIR
+from heavenstrust_main.settings.common import BASE_DIR
 
 USE_SPACES = config('USE_SPACES', cast=bool, default=True)
 # USE_SPACES=False
